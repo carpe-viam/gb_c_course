@@ -12,12 +12,12 @@ int x3 = Convert.ToInt32(Console.ReadLine());
 
 int max = x1;
 
-if (x2 > x1)
+if (x2 > max)
 {
     max = x2;
 }
 
-if (x3 > x1)
+if (x3 > max)
 {
     max = x3;
 }
