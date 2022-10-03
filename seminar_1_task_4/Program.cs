@@ -14,18 +14,12 @@ int max = x1;
 
 if (x2 > x1)
 {
-    if (x2 > x3)
-    {
-        max = x2;
-    }
+    max = x2;
 }
 
 if (x3 > x1)
 {
-    if (x3 > x2)
-    {
-        max = x3;
-    }
+    max = x3;
 }
 
 Console.Write("Максимальное из трех чисел: " + max);
