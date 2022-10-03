@@ -1,6 +1,6 @@
 ﻿//Seminar_1_task_2
 //
-Console.Clear();
+
 Console.Write("Введите первое число: ");
 int x1 = Convert.ToInt32(Console.ReadLine());
 
