@@ -4,3 +4,4 @@
 *.targets
 *.csproj
 **/obj
+88/bin
